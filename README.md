@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<img src='wordle2.mp4' title='Video Demo' width='' alt='Video Demo' />
+<img src='new.mp4' title='Video Demo' width='' alt='Video Demo' />
 
 ## Notes
 
